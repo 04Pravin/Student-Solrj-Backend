@@ -1,4 +1,4 @@
 spring:
   datasource:
-    url: http://localhost:8983/solr/student_xml
+    url: http://localhost:8983/solr/student_core
 
