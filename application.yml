@@ -1,4 +1,2 @@
-spring:
-  datasource:
-    url: http://localhost:8983/solr/student_core
-
+server:
+  port: 8081
